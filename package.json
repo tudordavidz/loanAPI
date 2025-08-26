@@ -8,6 +8,7 @@
     "start": "node dist/app.js",
     "dev": "ts-node src/app.ts",
     "test": "jest",
+    "test:verbose": "jest --verbose",
     "test:watch": "jest --watchAll"
   },
   "keywords": [
